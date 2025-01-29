@@ -1,6 +1,6 @@
 # AICW
 
-Task1)
+Shortest Path Algorithm Task)
 Two algorithms implemented,Heuristic and Dijakstras Algorithm. 
 When you execute the program, you first need to enter the grid dimensions in the console. You will then be asked to enter how you want to distribute values in each cell at random or assign the probability to each number (0-9) of appearing at each cell. Then you will be asked which algorithm to perform.
 Heuristic algorithm has the initial and finish coordinates already assigned. It will the calculate the path distance, show the distance in the console and display a graph to visualize how it got there.
